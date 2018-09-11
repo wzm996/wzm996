@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-31T13:19:10.764Z</updated>
+  <updated>2018-08-31T14:13:29.607Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>练习</title>
+    <link href="http://yoursite.com/2018/08/31/%E7%BB%83%E4%B9%A0/"/>
+    <id>http://yoursite.com/2018/08/31/练习/</id>
+    <published>2018-08-31T14:09:54.000Z</published>
+    <updated>2018-08-31T14:13:29.607Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;java-测试&quot;&gt;&lt;a href=&quot;#java-测试&quot; class=&quot;headerlink&quot; title=&quot;java 测试&quot;&gt;&lt;/a&gt;java 测试&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="java测试" scheme="http://yoursite.com/tags/java%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>831第五次测试</title>
