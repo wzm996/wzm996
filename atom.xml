@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-31T14:13:29.607Z</updated>
+  <updated>2018-10-26T14:11:40.995Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初识代理服务器和常用的代理技术</title>
+    <link href="http://yoursite.com/2018/10/22/%E5%88%9D%E8%AF%86%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E5%B8%B8%E7%94%A8%E7%9A%84%E4%BB%A3%E7%90%86%E6%8A%80%E6%9C%AF/"/>
+    <id>http://yoursite.com/2018/10/22/初识代理服务器和常用的代理技术/</id>
+    <published>2018-10-22T13:41:06.000Z</published>
+    <updated>2018-10-26T14:11:40.995Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;服务器，也称伺服器。指一个管理资源并为用户提供服务的计算机设备。根据服务器提供的服务类型不同，可分为文件服务器，数据库服务器，应用程序服务器，WEB服务器等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;代理服务器&quot;&gt;&lt;a hre
+      
+    
+    </summary>
+    
+      <category term="基础知识" scheme="http://yoursite.com/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="基础知识" scheme="http://yoursite.com/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构（一）——算法的时间和空间复杂度</title>
+    <link href="http://yoursite.com/2018/10/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E7%AE%97%E6%B3%95%E7%9A%84%E6%97%B6%E9%97%B4%E5%92%8C%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6/"/>
+    <id>http://yoursite.com/2018/10/08/数据结构（一）——算法的时间和空间复杂度/</id>
+    <published>2018-10-08T09:09:59.000Z</published>
+    <updated>2018-10-15T07:54:23.930Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;算法&lt;/strong&gt; 的优劣主要体现在算法的复杂性上。&lt;br&gt;&lt;strong&gt;算法复杂度&lt;/strong&gt; 是运行该算法时所占用计算机资源的多少。&lt;br&gt;&lt;strong&gt;计算机资源&lt;/strong&gt; 主要分为时间和空间资
+      
+    
+    </summary>
+    
+      <category term="数据结构" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+      <category term="数据结构" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
   
   <entry>
     <title>练习</title>
@@ -79,9 +131,9 @@
 &lt;h3 id=&quot;编辑器样式、预览样式、大纲视图&quot;&gt;&lt;a href=&quot;#编辑器样式、预览样式、大纲视图&quot; class=&quot;headerlink&quot; title=&quot;编辑器样式、预览样式、大纲视图&quot;&gt;&lt;/a&gt;编辑器样式、预览样式、大纲视图&lt;/h3&gt;&lt;p&gt;如上图左边的图所示，右上角的按钮可以快速设置编辑器的字体大小和行高，更换编辑器样式和预览样式。还有一个 “编辑器全屏模式” 的选项，开启后，编辑和查看时，编辑器会全屏显示。底部有五个按钮，分别为：文档大纲、收藏、切换预览模式和编辑模式、新增、分享，如上图右边的图是点击文档大纲按钮的效果。&lt;/p&gt;
 &lt;h3 id=&quot;导出为图片和-PDF、发布服务、图床功能&quot;&gt;&lt;a href=&quot;#导出为图片和-PDF、发布服务、图床功能&quot; class=&quot;headerlink&quot; title=&quot;导出为图片和 PDF、发布服务、图床功能&quot;&gt;&lt;/a&gt;导出为图片和 PDF、发布服务、图床功能&lt;/h3&gt;&lt;p&gt;iOS 版 MWeb 跟 Mac 版一样，也支持把文档发布到 Wordpress、Metaweblog API 、Evernote、Blogger 和 Medium。除了发布到 Medium 外，其他都支持&lt;strong&gt;更新&lt;/strong&gt;已发布的文档，发布时，如果文档中有图片，也会自动上传。如上图左边的图所示，点击分享按钮即可使用此功能。另外，iOS 版 MWeb 还支持图床，要使用这些功能，要先到设置页面增加相关服务，如上图右边的图所示。更详细的使用说明，可参考以下三篇文章：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://zh.mweb.im/how_to_use_wordpress_url.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;iOS 版 MWeb 发布到自建 Wordpress 和 Metaweblog API 使用指南&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://zh.mweb.im/how_to_use_qiniu_url.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;iOS 版 MWeb 图床功能及七牛图床使用指南&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://zh.mweb.im/how_to_use_custom_image_upload_url.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;iOS 版 MWeb 图床功能中自定义图床的使用指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://zh.mweb.im/how_to_use_wordpress_url.html&quot;&gt;iOS 版 MWeb 发布到自建 Wordpress 和 Metaweblog API 使用指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://zh.mweb.im/how_to_use_qiniu_url.html&quot;&gt;iOS 版 MWeb 图床功能及七牛图床使用指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://zh.mweb.im/how_to_use_custom_image_upload_url.html&quot;&gt;iOS 版 MWeb 图床功能中自定义图床的使用指南&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&quot;iOS-版-MWeb-首页及文档管理介绍&quot;&gt;&lt;a href=&quot;#iOS-版-MWeb-首页及文档管理介绍&quot; class=&quot;headerlink&quot; title=&quot;iOS 版 MWeb 首页及文档管理介绍&quot;&gt;&lt;/a&gt;iOS 版 MWeb 首页及文档管理介绍&lt;/h2&gt;&lt;h3 id=&quot;首页和打开外部文档&quot;&gt;&lt;a href=&quot;#首页和打开外部文档&quot; class=&quot;headerlink&quot; title=&quot;首页和打开外部文档&quot;&gt;&lt;/a&gt;首页和打开外部文档&lt;/h3&gt;&lt;p&gt;上图中，左边的是首页，首页有最近使用的文档和收藏内容这两大块。&lt;/p&gt;
 &lt;p&gt;最近使用只会显示最近使用的 5 个文档，包括文档库的文档、iCloud 中的文档、在手机本地的文档，可以看边上的图标来识别文档类型。&lt;br&gt;而收藏不只可以收藏文档，还可以收藏文件夹、文档库的分类，只要是底加的工具栏中有 ✭ 的按钮的项目，都可以收藏，基本上，除了首页，都会有 ✭ 这个按钮，如右边的图所示。&lt;/p&gt;
@@ -242,7 +294,7 @@
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for
       
     
     </summary>
