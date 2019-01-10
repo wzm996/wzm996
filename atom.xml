@@ -181,8 +181,8 @@
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;- [ ] 任务一 未做任务 `- + 空格 + [ ]`&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;- [x] 任务二 已做任务 `- + 空格 + [x]`&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;效果如下：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt; 任务一 未做任务 &lt;code&gt;- + 空格 + [ ]&lt;/code&gt;&lt;/li&gt;
-&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt; 任务二 已做任务 &lt;code&gt;- + 空格 + [x]&lt;/code&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot;&gt;&lt;/input&gt; 任务一 未做任务 &lt;code&gt;- + 空格 + [ ]&lt;/code&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none&quot;&gt;&lt;input type=&quot;checkbox&quot; checked&gt;&lt;/input&gt; 任务二 已做任务 &lt;code&gt;- + 空格 + [x]&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;图片大小及对齐&quot;&gt;&lt;a href=&quot;#图片大小及对齐&quot; class=&quot;headerlink&quot; title=&quot;图片大小及对齐&quot;&gt;&lt;/a&gt;图片大小及对齐&lt;/h3&gt;&lt;p&gt;官方和 GFM 都不支持图片大小控制及对齐设置，MWeb 引入的特别的语法来设置图片宽度和居左、居右、居中。如：&lt;code&gt;![图片说明-w450](pic.jpg)&lt;/code&gt; 这样表示设置图片宽度为 450。其中 -w450 为设置语法，生成 HTML 时会自动移除。w 表示设置宽度，居左为：-l400，居右为 -r400，居中为 -c400，比如设置一图片宽度为 500 并居中：&lt;code&gt;![-c500](pic.jpg)&lt;/code&gt;。 可以看出，MWeb 引入的语法的特点是兼容原来的语法和仅支持设置宽度。&lt;/p&gt;
 &lt;h3 id=&quot;多行或者一段代码&quot;&gt;&lt;a href=&quot;#多行或者一段代码&quot; class=&quot;headerlink&quot; title=&quot;多行或者一段代码&quot;&gt;&lt;/a&gt;多行或者一段代码&lt;/h3&gt;&lt;p&gt;Markdown 语法：&lt;/p&gt;
